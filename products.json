@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Backpack",
+    "price": 109.95,
+    "description": "High-quality durable backpack designed for everyday use, travel, and outdoor activities. It features multiple compartments for organized storage, comfortable padded straps, and water-resistant material to protect your belongings in different weather conditions.",
+    "category": "men's clothing",
+    "image": "https://picsum.photos/id/1018/400/400",
+    "rating": { "rate": 4.2, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "Jacket Premium",
+    "price": 55.99,
+    "description": "Stylish premium winter jacket designed with modern slim-fit cut. It provides excellent warmth and comfort during cold weather while maintaining a fashionable look suitable for casual and semi-formal wear.",
+    "category": "men's clothing",
+    "image": "https://picsum.photos/id/1005/400/400",
+    "rating": { "rate": 4.1, "count": 259 }
+  },
+  {
+    "id": 3,
+    "title": "Cotton Jacket",
+    "price": 39.99,
+    "description": "Soft cotton jacket made for comfort and everyday wear. It is lightweight yet warm enough for transitional seasons like spring and autumn, offering both style and practicality.",
+    "category": "men's clothing",
+    "image": "https://picsum.photos/id/1003/400/400",
+    "rating": { "rate": 4.7, "count": 500 }
+  },
+  {
+    "id": 4,
+    "title": "Slim Shirt",
+    "price": 15.99,
+    "description": "Modern slim-fit casual shirt designed for a clean and stylish appearance. Made from breathable fabric that ensures comfort throughout the day, perfect for both casual outings and semi-formal events.",
+    "category": "men's clothing",
+    "image": "https://picsum.photos/id/1011/400/400",
+    "rating": { "rate": 3.9, "count": 430 }
+  },
+  {
+    "id": 5,
+    "title": "Gold Bracelet",
+    "price": 695,
+    "description": "Luxury gold bracelet crafted with premium materials and elegant finishing. Designed to enhance your style for special occasions, offering a timeless and sophisticated look.",
+    "category": "jewelery",
+    "image": "https://picsum.photos/id/1060/400/400",
+    "rating": { "rate": 4.8, "count": 400 }
+  },
+  {
+    "id": 6,
+    "title": "Diamond Ring",
+    "price": 168,
+    "description": "Elegant diamond ring featuring a refined design suitable for engagements and special moments. It combines beauty and durability, making it a perfect symbol of love and commitment.",
+    "category": "jewelery",
+    "image": "https://picsum.photos/id/1062/400/400",
+    "rating": { "rate": 4.3, "count": 70 }
+  },
+  {
+    "id": 7,
+    "title": "Wedding Ring",
+    "price": 9.99,
+    "description": "Classic wedding ring designed with simplicity and elegance. Perfect for couples who value timeless design and meaningful symbolism in their jewelry.",
+    "category": "jewelery",
+    "image": "https://picsum.photos/id/1057/400/400",
+    "rating": { "rate": 4.0, "count": 400 }
+  },
+  {
+    "id": 8,
+    "title": "Earrings",
+    "price": 10.99,
+    "description": "Elegant and lightweight earrings designed to complement any outfit. Suitable for daily wear or special occasions, offering a simple yet stylish look.",
+    "category": "jewelery",
+    "image": "https://picsum.photos/id/1050/400/400",
+    "rating": { "rate": 3.7, "count": 100 }
+  },
+  {
+    "id": 9,
+    "title": "External HDD",
+    "price": 64,
+    "description": "High-speed external hard drive designed for secure and portable data storage. Ideal for backups, file transfers, and expanding storage capacity for laptops and desktops.",
+    "category": "electronics",
+    "image": "https://picsum.photos/id/180/400/400",
+    "rating": { "rate": 4.2, "count": 203 }
+  },
+  {
+    "id": 10,
+    "title": "SSD 1TB",
+    "price": 109,
+    "description": "Fast and reliable 1TB SSD designed to improve system performance, reduce loading times, and provide efficient storage for gaming and professional use.",
+    "category": "electronics",
+    "image": "https://picsum.photos/id/0/400/400",
+    "rating": { "rate": 4.6, "count": 470 }
+  },
+  {
+    "id": 11,
+    "title": "Gaming SSD",
+    "price": 129,
+    "description": "High-performance SSD optimized for gaming systems, delivering ultra-fast read and write speeds to enhance gameplay and system responsiveness.",
+    "category": "electronics",
+    "image": "https://picsum.photos/id/20/400/400",
+    "rating": { "rate": 4.8, "count": 319 }
+  },
+  {
+    "id": 12,
+    "title": "Storage Drive",
+    "price": 114,
+    "description": "Reliable external storage device offering large capacity and fast data transfer speeds, perfect for backups and media storage.",
+    "category": "electronics",
+    "image": "https://picsum.photos/id/30/400/400",
+    "rating": { "rate": 4.4, "count": 400 }
+  },
+  {
+    "id": 13,
+    "title": "Acer Monitor",
+    "price": 599,
+    "description": "Full HD monitor with sharp visuals and vibrant colors, designed for work, gaming, and entertainment with excellent viewing experience.",
+    "category": "electronics",
+    "image": "https://picsum.photos/id/48/400/400",
+    "rating": { "rate": 4.1, "count": 250 }
+  },
+  {
+    "id": 14,
+    "title": "Samsung UltraWide",
+    "price": 999.99,
+    "description": "Ultra-wide curved gaming monitor offering immersive viewing experience, ideal for multitasking, gaming, and professional creative work.",
+    "category": "electronics",
+    "image": "https://picsum.photos/id/49/400/400",
+    "rating": { "rate": 4.9, "count": 140 }
+  },
+  {
+    "id": 15,
+    "title": "Women Jacket",
+    "price": 56.99,
+    "description": "Warm and stylish winter jacket designed for comfort and protection during cold weather, combining elegance with practicality.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/id/64/400/400",
+    "rating": { "rate": 4.0, "count": 235 }
+  },
+  {
+    "id": 16,
+    "title": "Casual Jacket",
+    "price": 29.95,
+    "description": "Comfortable casual jacket suitable for daily wear, offering lightweight design with a modern and relaxed fit.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/id/65/400/400",
+    "rating": { "rate": 4.3, "count": 340 }
+  },
+  {
+    "id": 17,
+    "title": "Rain Jacket",
+    "price": 39.99,
+    "description": "Waterproof rain jacket designed to keep you dry and comfortable during rainy weather, featuring adjustable hood and durable fabric.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/id/66/400/400",
+    "rating": { "rate": 4.5, "count": 679 }
+  },
+  {
+    "id": 18,
+    "title": "Short Sleeve",
+    "price": 9.85,
+    "description": "Lightweight short sleeve shirt made from breathable fabric, perfect for warm weather and everyday casual wear.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/id/67/400/400",
+    "rating": { "rate": 4.7, "count": 130 }
+  },
+  {
+    "id": 19,
+    "title": "T-Shirt",
+    "price": 7.95,
+    "description": "Comfortable everyday t-shirt designed for casual use, made from soft fabric that ensures all-day comfort.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/id/68/400/400",
+    "rating": { "rate": 4.5, "count": 146 }
+  },
+  {
+    "id": 20,
+    "title": "Printed Shirt",
+    "price": 12.99,
+    "description": "Stylish printed cotton shirt designed for casual wear, offering comfort, breathability, and modern fashion look.",
+    "category": "women's clothing",
+    "image": "https://picsum.photos/id/69/400/400",
+    "rating": { "rate": 4.2, "count": 145 }
+  }
+]
